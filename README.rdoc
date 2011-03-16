@@ -11,7 +11,7 @@ This way a single form can be used to edit given model fields with all anticipat
 
 == Installation
 
-  script/plugin install git://github.com/tomash/easy_globalize2_accessors.git
+  rails plugin install git://github.com/krists/easy_globalize3_accessors.git
 
 == Example
 
